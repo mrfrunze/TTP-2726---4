@@ -482,7 +482,7 @@ main {
 }
 .article p > a {
   text-decoration: underline;
-  color: var(--bg-CD64FF);
+  color: #CD64FF;
 }
 .article p {
   margin-bottom: 30px;
